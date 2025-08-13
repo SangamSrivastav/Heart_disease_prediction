@@ -29,7 +29,7 @@ The goal of this project is to build a robust machine learning model that can as
 
 ---
 
-## Dataset
+## Dataset used
 
 The dataset used in this project is named heart_dataset.csv. It contains 1190 rows and 12 columns, with no missing values. The dataset is a clean, well-structured resource for a classification task.
 
